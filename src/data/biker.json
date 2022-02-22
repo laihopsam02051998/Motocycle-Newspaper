@@ -1,0 +1,128 @@
+{
+    "biker":{
+        "bikerList":[
+            {
+                "id": "biker01",
+                "name": "Marc Marquez",
+                "abbreviatedName": "MM03",
+                "image": "https://photos.motogp.com/riders/b/5/b5bb7fc0-48d7-47c3-a1de-9667a485c6d1/profile/main/_0005_93-Marc-Marquez-Rider_A7R4509@1x.png",
+                "countryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png",
+                "team": "Repsol Honda Team",
+                "color":"linear-gradient(270deg, rgb(23, 28, 33) 0%, rgb(255, 153, 18) 100%)"
+            },
+            {
+                "id": "biker02",
+                "name": "Andrea Dovizioso",
+                "abbreviatedName": "ad04",
+                "image": "https://photos.motogp.com/riders/5/1/5126a93e-5e73-4096-bab6-7c5a3e2d601e/profile/main/04_Andrea-Dovizioso@1x.png",
+                "countryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png",
+                "team": "WithU Yamaha RNF MotoGP™ Team",
+                "color":"linear-gradient(270deg, rgb(23, 28, 33) 0%, rgb(21, 74, 114) 100%)"
+
+            },{
+                "id": "biker03",
+                "name": "Johann Zarco",
+                "abbreviatedName": "jz5",
+                "image": "https://photos.motogp.com/riders/9/f/9f826c33-8368-4e34-8c19-04617d481b2d/profile/main/_0003_05-Johann-Zarco%2C-Rider_A7R0863@1x.png",
+                "countryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png",
+                "team": "Pramac Racing",
+                "color":"linear-gradient(270deg, rgb(23, 28, 33) 0%, rgb(204, 51, 51) 100%)"
+
+            },{
+                "id": "biker04",
+                "name": "Luca Marini",
+                "abbreviatedName": "lm10",
+                "image": "https://photos.motogp.com/riders/8/0/807d9f63-4b52-4450-b080-aa063b73bbde/profile/main/10_Luca_Marini_GP_0503@1x.png",
+                "countryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png",
+                "team": "Mooney VR46 Racing Team",
+                "color":"linear-gradient(270deg, rgb(23, 28, 33) 0%, rgb(219, 255, 3) 100%)"
+
+            },{
+                "id": "biker05",
+                "name": "Maverick Viñales",
+                "abbreviatedName": "mv12",
+                "image": "https://photos.motogp.com/riders/8/b/8b36ef74-d20e-494c-88e9-3ff00fcaf0b1/profile/main/_0009_20-Fabio-Quartararo%2C-Rider_A7R1206@1x.png",
+                "countryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png",
+                "team": "Aprilia Racing",
+                "color":"linear-gradient(270deg, rgb(23, 28, 33) 0%, rgb(45, 185, 20) 100%)"
+
+            },
+            {
+                "id": "biker06",
+                "name": "Fabio Quartararo",
+                "abbreviatedName": "fm21",
+                "image": "https://photos.motogp.com/riders/e/6/e62d9096-68ee-4a3e-b1b1-733a1d91c988/profile/main/_0008_21-Franco-Morbidelli%2C-Rider_A7R1691@1x.png",
+                "countryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png",
+                "team": "Monster Energy Yamaha MotoGP™",
+                "color":"linear-gradient(270deg, rgb(23, 28, 33) 0%, rgb(24, 61, 199) 100%)"
+
+            },
+            {
+                "id": "biker07",
+                "name": "Marc Marquez",
+                "abbreviatedName": "MM09",
+                "image": "https://photos.motogp.com/riders/8/0/80efabf9-795b-42f2-b2c2-4fd51858229e/profile/main/_0004__GP_0543@1x.png",
+                "countryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png",
+                "team": "Repsol Honda Team",
+                "color":"linear-gradient(270deg, rgb(23, 28, 33) 0%, rgb(24, 61, 199) 100%)"
+
+            }
+            ,
+            {
+                "id": "biker08",
+                "name": "Marc Marquez",
+                "abbreviatedName": "MM09",
+                "image": "https://photos.motogp.com/riders/3/b/3b0be607-9966-415d-9dbd-0e56d2fcd72f/profile/main/_0002__GP_0576@1x.png",
+                "countryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png",
+                "team": "Repsol Honda Team",
+                "color":"linear-gradient(270deg, rgb(23, 28, 33) 0%, rgb(161, 183, 229) 100%)"
+
+            }
+            ,
+            {
+                "id": "biker09",
+                "name": "Marc Marquez",
+                "abbreviatedName": "MM09",
+                "image": "https://photos.motogp.com/riders/3/d/3d28c407-da11-4657-8574-84972b917973/profile/main/_0006_33-Brad-Binder%2C-Rider_A7R1742@1x.png",
+                "countryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png",
+                "team": "Repsol Honda Team",
+                "color":"linear-gradient(270deg, rgb(23, 28, 33) 0%, rgb(219, 255, 3) 100%)"
+
+            }
+            ,
+            {
+                "id": "biker10",
+                "name": "Marc Marquez",
+                "abbreviatedName": "MM09",
+                "image": "https://photos.motogp.com/riders/3/a/3a01aad5-efd0-45e2-beb1-ad987e14cba4/profile/main/40_Darryn_Binder__GP_0338@1x.png",
+                "countryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png",
+                "team": "Repsol Honda Team",
+                "color":"linear-gradient(270deg, rgb(23, 28, 33) 0%, rgb(255, 153, 18) 100%)"
+
+            }
+            ,
+            {
+                "id": "biker11",
+                "name": "Marc Marquez",
+                "abbreviatedName": "MM09",
+                "image": "https://photos.motogp.com/riders/e/4/e4f020e5-51d6-407a-9211-34c1c6fec1ba/profile/main/_0006_41-Aleix-Espargaro_Rider_A7R0918@1x.png",
+                "countryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png",
+                "team": "Repsol Honda Team",
+                "color":"linear-gradient(270deg, rgb(23, 28, 33) 0%, rgb(255, 153, 18) 100%)"
+
+            }
+            ,
+            {
+                "id": "biker12",
+                "name": "Marc Marquez",
+                "abbreviatedName": "MM09",
+                "image": "https://photos.motogp.com/riders/0/a/0a089dcc-2d76-464b-b43b-af3f634c3965/profile/main/_0004_42-Alex-Rins%2C-Rider_A7R1401@1x.png",
+                "countryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png",
+                "team": "Repsol Honda Team",
+                "color":"linear-gradient(270deg, rgb(23, 28, 33) 0%, rgb(255, 153, 18) 100%)"
+
+            }
+            
+        ]
+    }
+}
